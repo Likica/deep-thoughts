@@ -1,0 +1,5 @@
+One of the primary objectives of this boot camp has been to become a web developer with a solid foundation in the MERN (MongoDB, Express.js, React, and Node.js) tech stack. This week, you’ll step fully into that realm. You’ll combine all of your back-end knowledge—by implementing a Node.js and Express.js API with a MongoDB database—with your React front-end skills to create a single-page MERN social-media application.
+
+You’ll use React Router to make the application behave more like a multi-page application, allowing users to bookmark URLs and use the browser’s forward and back buttons. You’ll also add GraphQL, an open-source data query and manipulation language for APIs that lets you fetch only the data you want from the database when you need it and nothing more.
+
+Finally, you’ll learn about an alternative authentication solution known as a JSON Web Token, or JWT. JWTs provide all the data you need in a single string, eliminate the need to save session IDs on the back end, don’t require as many server-side resources, and can be generated anywhere.
